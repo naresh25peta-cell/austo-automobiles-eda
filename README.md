@@ -51,4 +51,4 @@ Python, pandas, matplotlib/seaborn - Jupyter notebook, exported to HTML. See `re
 
 ## How to view it
 
-Download `EDA_Naresh_Peta_Austo_automobile.html` and open it in any browser to see the full notebook with code, charts, and output.
+Download `austo_automobiles_eda.html` and open it in any browser to see the full notebook with code, charts, and output.
